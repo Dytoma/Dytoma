@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://dytoma-portfolio-v6.vercel.app/](https://dytoma-portfolio-v6.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-dytoma.netlify.app/](https://portfolio-dytoma.netlify.app/)
 
 - 💬 Ask me about **react, javascript and vue**
 
