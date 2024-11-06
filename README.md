@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/omardytoma" target="blank"><img src="https://img.shields.io/twitter/follow/omardytoma?logo=twitter&style=for-the-badge" alt="omardytoma" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-dytoma.netlify.app/](https://portfolio-dytoma.netlify.app/)
+- 👨‍💻 All of my projects are available at [dytoma.fr](https://dytoma.fr/)
 
 - 💬 Ask me about **react, javascript and vue**
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.dropbox.com/s/7weo39h4cd233o5/Me%20resume.pdf?dl=0](https://www.dropbox.com/s/7weo39h4cd233o5/Me%20resume.pdf?dl=0)
 
-- ⚡ Fun fact **I think I'm a serious person**
+- ⚡ Fun fact **I think I'm really funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
